@@ -8,13 +8,13 @@ Hi 👋, I'm Tharun
 ### 🛠️ Tech Stack
 
 Languages:
-C++ | Python | SQL
+C++ | Python | JAVA
 
 Core:
 DSA | OOP | DBMS
 
 AI/ML:
-Machine Learning | NLP | Computer Vision
+Machine Learning 
 
 Tools:
 Git | GitHub | VS Code
@@ -23,7 +23,7 @@ Git | GitHub | VS Code
 
 🌱 Plant Health Prediction
 🤖 Fake Review Detector
-💻 [Your next project]
+
 
 ### 📫 Connect with me
 
