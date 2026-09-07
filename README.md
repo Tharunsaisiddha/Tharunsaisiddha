@@ -1,30 +1,65 @@
-Hi 👋, I'm Tharun
+# Hi, I'm Tharun 👋
 
-🎓 B.Tech CSE Student @ Lovely Professional University
-💻 C++ | Data Structures & Algorithms
-🤖 AI/ML Enthusiast
-🌱 Currently learning and building with Python & Machine Learning
+🎓 Computer Science Engineering Student
+💻 Interested in C++, Data Structures & Algorithms, AI and Machine Learning.
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-Languages:
-C++ | Python | JAVA
+* 🌱 Currently learning **Data Structures & Algorithms and Machine Learning**
+* 💡 Interested in solving real-world problems using technology
+* 🚀 Building projects to improve my practical skills
+* 📚 Continuously learning and exploring new technologies
 
-Core:
-DSA | OOP | DBMS
+## 🛠️ Technical Skills
 
-AI/ML:
-Machine Learning 
+**Languages**
 
-Tools:
-Git | GitHub | VS Code
+* C++
+* Python
+* SQL
 
-### 🚀 Featured Projects
+**Core Concepts**
 
-🌱 Plant Health Prediction
-🤖 Fake Review Detector
+* Data Structures & Algorithms
+* Object-Oriented Programming
 
+**AI/ML**
 
-### 📫 Connect with me
+* Machine Learning
+* Pandas
+* NumPy
+* Scikit-learn
 
-LinkedIn | GitHub
+**Tools**
+
+* Git
+* GitHub
+* Jupyter Notebook
+
+## 🚀 Projects
+
+### 🔍 Fake Review Detection
+
+A machine learning project designed to identify and classify potentially fake reviews using text analysis and machine learning techniques.
+
+**Technologies:** Python, Machine Learning, NLP
+
+### 🌱 Plant Disease Detection
+
+An AI-based project that identifies plant diseases from plant leaf images, helping in the early detection of diseases.
+
+**Technologies:** Python, Machine Learning, Deep Learning, Computer Vision
+
+### 👨‍🍳 Chef's Companion
+
+A smart cooking assistance project designed to help users with recipes, ingredients, and meal preparation.
+
+**Technologies:** Python, AI/ML
+
+## 📫 Connect With Me
+
+* LinkedIn: [click here](https://www.linkedin.com/in/tharun-sai25/)
+* GitHub: [click here](https://github.com/Tharunsaisiddha)
+
+⭐ Feel free to explore my repositories!
+
